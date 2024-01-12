@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m using Javascript for 3 years and The more I discover it, the more I love it
+- 🚀 I’m using JavaScript for 3 years and The more I discover it, the more I love it
 - 💻 Stack : JS, React js, Redux, TypeScript, Node js, Express, MySQL, MongoDB, GraphQL
 - ⚡ I am a curious person. I love learning and discover new things. 
 
